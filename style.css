@@ -201,7 +201,7 @@ span {
     content: "Content Manager";
   }
   81%,
-  1000% {
+  100% {
     content: "Software Tester";
   }
 }
